@@ -1,0 +1,39 @@
+{
+  "todolist": [
+    {
+      "title": "Learn react",
+      "purchsed": false,
+      "id": 1
+    },
+    {
+      "title": "Learn express",
+      "purchsed": false,
+      "id": 2
+    },
+    {
+      "title": "Learn javascript",
+      "purchsed": false,
+      "id": 3
+    },
+    {
+      "title": "Learn html",
+      "purchsed": false,
+      "id": 4
+    },
+    {
+      "title": "Learn css",
+      "purchsed": false,
+      "id": 5
+    },
+    {
+      "title": "Learn mongoDB",
+      "purchsed": false,
+      "id": 6
+    },
+    {
+      "title": "Learn styled components",
+      "purchsed": false,
+      "id": 7
+    }
+  ]
+}
